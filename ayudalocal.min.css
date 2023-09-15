@@ -402,6 +402,7 @@ h3.notion-heading {
 }
 
 .super-content .notion-collection-gallery .notion-collection-card:after {
+  background: linear-gradient(transparent, rgba(0, 0, 0, .5));
   content: "";
   height: 60%;
   position: absolute;
@@ -410,7 +411,7 @@ h3.notion-heading {
 }
 
 .super-content .notion-collection-gallery .notion-collection-card:before {
-  background: linear-gradient(rgba(0, 0, 0, .5), transparent);
+  background: linear-gradient(rgba(0, 0, 0, .2), transparent);
   content: "";
   height: 45%;
   position: absolute;
