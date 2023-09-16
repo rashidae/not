@@ -904,6 +904,12 @@ h3.notion-heading {
   transition: box-shadow 0.3s ease-in-out;  /* Add this line for a smooth transition */
 }
 
+@media (max-width: 1200px) {
+  .six-column-row {
+    display: none;
+  }
+}
+
 .notion-text__content .highlighted-background .notion-link:hover {
   background-color:  #F82B60;
   box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.35) inset;  /* Add this line for the box-shadow */
@@ -914,7 +920,7 @@ h3.notion-heading {
 }
 
 #page-index .super-content {
-  padding-top: 80px !important
+  padding-top: 100px !important
 }
 
 #page-index h3,
