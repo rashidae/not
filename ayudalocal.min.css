@@ -185,9 +185,9 @@ figcaption {
 }
 
 .super-navbar .super-navbar__cta {
-  background-color: var(--cta-bg) !important;
+  background-color: #F82B60 !important;
   border-radius: 8px !important;
-  color: var(--cta-color) !important;
+  color: #F82B60 !important;
   font-size: 14px !important;
   font-weight: 500 !important;
   padding: 6px 14px
@@ -894,10 +894,10 @@ h3.notion-heading {
 }
 
 .notion-text__content .highlighted-background .notion-link {
-  background-color: var(--cta-bg);
+  background-color: #F82B60;
   border: 0 !important;
   border-radius: 8px;
-  color: var(--cta-color);
+  color: #F82B60;
   display: inline-block;
   font-weight: 600;
   padding: 16px 24px
