@@ -185,9 +185,9 @@ figcaption {
 }
 
 .super-navbar .super-navbar__cta {
-  background-color: #F82B60 !important;
+  background-color: var(--cta-bg) !important;
   border-radius: 8px !important;
-  color: #F82B60 !important;
+  color: var(--cta-color) !important;
   font-size: 14px !important;
   font-weight: 500 !important;
   padding: 6px 14px
@@ -904,7 +904,7 @@ h3.notion-heading {
 }
 
 .notion-text__content .highlighted-background .notion-link:hover {
-  background-color: var(--cta-hover-bg)
+  background-color: #F82B60
 }
 
 #page-index .notion-header {
