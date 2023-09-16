@@ -977,7 +977,6 @@ h3.notion-heading {
 #page-about h3.notion-heading {
   margin-bottom: .85rem !important;
   opacity: .68 !important;
-  text-transform: uppercase !important
 }
 
 [id*=page-projects-] .notion-header {
