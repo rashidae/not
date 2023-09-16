@@ -904,8 +904,8 @@ h3.notion-heading {
   transition: box-shadow 0.3s ease-in-out;  /* Add this line for a smooth transition */
 }
 
-@media (max-width: 1200px) {
-  div.notion-column-list > div.notion-column {
+@media only screen and (max-width: 1200px) {
+  #block-e87ce3a7de6341008c4045f139acf433 {
     display: none;
   }
 }
