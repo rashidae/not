@@ -904,7 +904,7 @@ h3.notion-heading {
   transition: box-shadow 0.3s ease-in-out;  /* Add this line for a smooth transition */
 }
 
-@media only screen and (max-width: 1200px) {
+@media (max-width: 1200px) {
   #block-5e1a48d85aa4425fb934dbd523d6eb6b,
   #block-3d7cb3ed6b5a4a018dcb0d876fbc4aef,
   #block-077477f0a8514662b45ca94283871d4d,
