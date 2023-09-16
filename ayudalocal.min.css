@@ -897,14 +897,14 @@ h3.notion-heading {
   background-color: #F82B60;
   border: 0 !important;
   border-radius: 8px;
-  color: #F82B60;
+  color: var(--cta-color);
   display: inline-block;
   font-weight: 600;
   padding: 16px 24px
 }
 
 .notion-text__content .highlighted-background .notion-link:hover {
-  background-color: #F82B60
+  background-color: var(--cta-hover-bg)
 }
 
 #page-index .notion-header {
