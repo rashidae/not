@@ -360,7 +360,7 @@ h3.notion-heading {
 
 .super-content .notion-collection-gallery {
   border-top: 0;
-  gap: 24px;
+  gap: 16px;
   padding-top: 0
 }
 
@@ -390,15 +390,15 @@ h3.notion-heading {
 }
 
 .super-content .notion-collection-gallery.large .notion-collection-card {
-  min-height: 400px
-}
-
-.super-content .notion-collection-gallery.medium .notion-collection-card {
   min-height: 360px
 }
 
+.super-content .notion-collection-gallery.medium .notion-collection-card {
+  min-height: 280px
+}
+
 .super-content .notion-collection-gallery.small .notion-collection-card {
-  min-height: 250px
+  min-height: 200px
 }
 
 .super-content .notion-collection-gallery .notion-collection-card {
