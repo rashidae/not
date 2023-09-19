@@ -944,6 +944,14 @@ letter-spacing: -0.64px;
   padding-top: 90px !important
 }
 
+@media (max-width: 600px) {
+  #page-index .super-content {
+    padding-top: 64px !important
+  }
+
+}
+
+
 #page-index h3,
 #page-index h3.notion-heading {
   margin-top: .5rem !important;
