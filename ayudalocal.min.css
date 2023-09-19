@@ -100,7 +100,7 @@ body {
 }
 
 .notion-divider {
-  border-bottom: 1px solid var(--border) !important
+  border-bottom: 1px solid var(--border)
 }
 
 figcaption {
