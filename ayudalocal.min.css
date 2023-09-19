@@ -288,7 +288,14 @@ h2 {
 
 h3 {
   margin-bottom: .05rem !important;
-  margin-top: .4rem !important
+  margin-top: .4rem !important;
+  color: #1F1F1F;
+font-family: Inter;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 21px */
+letter-spacing: -0.84px;
 }
 
 h1,
@@ -321,8 +328,13 @@ h2.notion-heading {
 
 h3,
 h3.notion-heading {
-  font-size: 1.2rem !important;
-  letter-spacing: .075rem !important
+color: var(--Grey-2, #1F1F1F);
+font-family: Inter;
+font-size: 21px;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 21px */
+letter-spacing: -0.84px;
 }
 
 .notion-caption {
