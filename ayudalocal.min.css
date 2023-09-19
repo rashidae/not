@@ -542,9 +542,21 @@ letter-spacing: -0.64px;
     grid-template-columns: 1fr 1fr
   }
 
+}
+
+@media (max-width:666 px) {
+  .super-content .notion-collection-gallery.large {
+    grid-template-columns: 1fr
+  }
+
+  .super-content .notion-collection-gallery.medium {
+    grid-template-columns: 1fr 1fr
+  }
+
   .super-content .notion-collection-gallery.small {
     grid-template-columns: 1fr 1fr 1fr
   }
+  
 }
 
 @media (max-width:620px) {
@@ -555,6 +567,7 @@ letter-spacing: -0.64px;
   .super-content .notion-collection-gallery.small {
     grid-template-columns: 1fr 1fr
   }
+
 }
 
 @media (max-width:360px) {
