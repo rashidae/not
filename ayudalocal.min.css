@@ -326,8 +326,8 @@ h1.notion-heading {
 h2,
 h2.notion-heading {
   font-size: 1.5rem !important;
-  line-height: 135%;
-    letter-spacing: -.4px;
+  line-height: 120%;
+    letter-spacing: -.45px;
     font-weight: 500
 }
 
