@@ -557,7 +557,7 @@ letter-spacing: -0.64px;
   }
 }
 
-@media (max-width:460px) {
+@media (max-width:360px) {
   .super-content .notion-collection-gallery.small {
     grid-template-columns: 1fr
   }
@@ -955,8 +955,8 @@ letter-spacing: -0.64px;
 
 #page-index h3,
 #page-index h3.notion-heading {
-  margin-top: .5rem !important;
-  opacity: .68 !important;
+  margin-top: .75rem !important;
+  opacity: .00 !important;
 }
 
 [id*=page-blog-] .notion-header {
