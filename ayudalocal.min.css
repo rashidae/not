@@ -168,7 +168,8 @@ figcaption {
   align-self: stretch !important;
   color: var(--heading-color) !important;
   height: auto !important;
-  padding: 0 !important
+  padding: 0 !important;
+  style= width:180px !important
 }
 
 .super-navbar .super-navbar__content .super-navbar__item-list {
