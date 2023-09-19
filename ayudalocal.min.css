@@ -956,7 +956,7 @@ letter-spacing: -0.64px;
 #page-index h3,
 #page-index h3.notion-heading {
   margin-top: .75rem !important;
-  opacity: .00 !important;
+  color: #484848
 }
 
 [id*=page-blog-] .notion-header {
