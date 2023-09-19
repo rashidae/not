@@ -319,7 +319,7 @@ h1.notion-heading {
 
   h1,
   h1.notion-heading {
-    font-size: 2.6rem !important
+    font-size: 2.4rem !important
   }
 }
 
@@ -556,7 +556,7 @@ letter-spacing: -0.64px;
   .super-content .notion-collection-gallery.small {
     grid-template-columns: 1fr 1fr 1fr
   }
-  
+
 }
 
 @media (max-width:620px) {
