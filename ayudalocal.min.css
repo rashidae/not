@@ -301,19 +301,13 @@ letter-spacing: -0.84px;
 
 h1,
 h1.notion-heading {
-  font-size: 3.2rem !important;
+  font-size: 3.6rem !important;
   color: #1F1F1F;
   line-height: 129%; /* 51.6px */
   letter-spacing: -2px;
 }
 
-@media (max-width:767.98px) {
 
-  h1,
-  h1.notion-heading {
-    font-size: 2.8rem !important
-  }
-}
 
 @media (max-width:336px) {
 
