@@ -359,7 +359,11 @@ letter-spacing: -0.84px;
 }
 
 .notion-toggle .notion-toggle__summary:hover:before {
-  background: var(--accent-bg) !important
+  background: var(--accent-bg) !important;
+font-style: normal;
+font-weight: 500;
+line-height: 100%; /* 16px */
+letter-spacing: -0.64px;
 }
 
 .super-content .notion-collection .notion-collection__header {
