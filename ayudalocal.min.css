@@ -384,6 +384,14 @@ h2.notion-heading {
     margin-bottom: 10px;
 }
 
+@media (max-width: 900px) {
+  h2, h2.notion-heading {
+    font-size: 2.0rem !important;
+    letter-spacing: -0.55px;
+    margin-bottom: 10px;
+  }
+}
+
 @media (max-width: 444px) {
   h2, h2.notion-heading {
     font-size: 1.8rem !important;
