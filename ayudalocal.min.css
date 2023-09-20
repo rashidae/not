@@ -305,6 +305,7 @@ h1.notion-heading {
   color: #1F1F1F;
   line-height: 129%; /* 51.6px */
   letter-spacing: -2px;
+  font-weight: 650;
 }
 
 @media (max-width: 440px) {
