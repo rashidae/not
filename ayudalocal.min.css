@@ -302,7 +302,6 @@ letter-spacing: -0.84px;
 h1,
 h1.notion-heading {
   font-size: calc(2rem + 0.5vw);
-  font-size: 3.6rem !important;
   color: #1F1F1F;
   line-height: 129%; /* 51.6px */
   letter-spacing: -2px;
