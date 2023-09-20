@@ -307,48 +307,48 @@ h1.notion-heading {
   letter-spacing: -2px;
 }
 
+@media (max-width: 440px) {
+  h1, h1.notion-heading {
+    font-size: 2.8rem !important;
+  }
+}
 
-
-@media (max-width:353px) {
-
-  h1,
-  h1.notion-heading {
+@media (max-width: 362px) {
+  h1, h1.notion-heading {
     font-size: 2.6rem !important;
-    letter-spacing: -1.2px;
-
   }
 }
 
-@media (max-width:317px) {
+@media (max-width: 353px) {
+  h1, h1.notion-heading {
+    font-size: 2.6rem !important;
+    padding-top: 40px !important;
+  }
+}
 
-  h1,
-  h1.notion-heading {
+@media (max-width: 333px) {
+  h1, h1.notion-heading {
+    font-size: 2.5rem !important;
+  }
+}
+
+@media (max-width: 317px) {
+  h1, h1.notion-heading {
     font-size: 2.4rem !important;
-    letter-spacing: -1.2px;
-
   }
 }
 
-@media (max-width:294px) {
-
-  h1,
-  h1.notion-heading {
+@media (max-width: 294px) {
+  h1, h1.notion-heading {
     font-size: 2.2rem !important;
-    letter-spacing: -1.2px;
-
   }
 }
 
-@media (max-width:273px) {
-
-  h1,
-  h1.notion-heading {
-    font-size: 1.8rem !important;
-    letter-spacing: -1.2px;
-
+@media (max-width: 273px) {
+  h1, h1.notion-heading {
+    font-size: 2.0rem !important;
   }
 }
-
 
 
 
@@ -359,6 +359,22 @@ h2.notion-heading {
     letter-spacing: -.5px;
     font-weight: 500
 }
+
+@media (max-width: 444px) {
+  h2, h2.notion-heading {
+    font-size: 1.8rem !important;
+    line-height: 110%;
+    letter-spacing: -0.55px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 340px) {
+  h2, h2.notion-heading {
+    font-size: 1.4rem !important;
+  }
+}
+
 
 h3,
 h3.notion-heading {
@@ -576,24 +592,6 @@ letter-spacing: -0.64px;
 
 }
 
-@media (max-width: 444 px) { 
-
-  h2,
-h2.notion-heading {
-  font-size: 1.8rem !important;
-  line-height: 110%;
-    letter-spacing: -.55px;
-    font-weight: 500
-
-} }
-
-
-
-@media (max-width: 340ox) {
-  h2, h2.notion-heading {
-
-    font-size: 1.4rem !important;
-}}
 
 @media (max-width:666 px) {
   .super-content .notion-collection-gallery.large {
