@@ -338,28 +338,32 @@ h1.notion-heading {
 
 @media (max-width: 317px) {
   h1, h1.notion-heading {
-    font-size: 2.4rem !important;
-    letter-spacing: -1.25px;
+    font-size: 2.2rem !important;
+    letter-spacing: -1px;
+    font-weight: 600 !important;
   }
 }
 
 @media (max-width: 298x) {
   h1, h1.notion-heading {
     font-size: 2.1rem !important;
-    letter-spacing: -1.2px;
+    letter-spacing: -1px;
+    font-weight: 600 !important;
   }
 }
 
 @media (max-width: 275px) {
   h1, h1.notion-heading {
     font-size: 2.0rem !important;
-    letter-spacing: -1.2px;
+    letter-spacing: -1px;
+    font-weight: 600 !important;
   }
 }
 @media (max-width: 252px) {
   h1, h1.notion-heading {
     font-size: 1.8rem !important;
-    letter-spacing: -1.2px;
+    letter-spacing: -1px;
+    font-weight: 600 !important;
   }
 }
 
