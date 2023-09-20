@@ -299,43 +299,65 @@ line-height: 100%; /* 21px */
 letter-spacing: -0.84px;
 }
 
-/* Default h1 styling for screens smaller than 440px */
-h1, h1.notion-heading {
-  font-size: calc(1.8rem + 0.4vw) !important;
-  line-height: 110%;
-  letter-spacing: -0.5px;
-  font-weight: 500;
+h1,
+h1.notion-heading {
+  font-size: 3.6rem !important;
+  color: #1F1F1F;
+  line-height: 129%; /* 51.6px */
+  letter-spacing: -2px;
 }
 
-/* Media query for larger screens (440px and up) */
-@media (min-width: 440px) {
-  h1, h1.notion-heading {
-    font-size: 3.0rem !important;
+
+
+@media (max-width:353px) {
+
+  h1,
+  h1.notion-heading {
+    font-size: 2.6rem !important;
+    letter-spacing: -1.2px;
+
   }
 }
 
+@media (max-width:317px) {
 
+  h1,
+  h1.notion-heading {
+    font-size: 2.4rem !important;
+    letter-spacing: -1.2px;
 
-/* Default h2 styling */
-h2, h2.notion-heading {
-  font-size: calc(1.8rem + 0.2vw) !important;
-  line-height: 110%;
-  letter-spacing: -0.5px;
-  font-weight: 500;
+  }
 }
 
-/* Media queries for smaller screens */
-@media (max-width: 444px) {
-  h2, h2.notion-heading {
+@media (max-width:294px) {
+
+  h1,
+  h1.notion-heading {
+    font-size: 2.2rem !important;
+    letter-spacing: -1.2px;
+
+  }
+}
+
+@media (max-width:273px) {
+
+  h1,
+  h1.notion-heading {
     font-size: 1.8rem !important;
-    letter-spacing: -0.55px;
+    letter-spacing: -1.2px;
+
   }
 }
 
-@media (max-width: 340px) {
-  h2, h2.notion-heading {
-    font-size: 1.4rem !important;
-  }
+
+
+
+h2,
+h2.notion-heading {
+  font-size: 2.1rem !important;
+  line-height: 110%;
+    letter-spacing: -.5px;
+    font-weight: 500
 }
 
 h3,
@@ -554,6 +576,24 @@ letter-spacing: -0.64px;
 
 }
 
+@media (max-width: 444 px) { 
+
+  h2,
+h2.notion-heading {
+  font-size: 1.8rem !important;
+  line-height: 110%;
+    letter-spacing: -.55px;
+    font-weight: 500
+
+} }
+
+
+
+@media (max-width: 340ox) {
+  h2, h2.notion-heading {
+
+    font-size: 1.4rem !important;
+}}
 
 @media (max-width:666 px) {
   .super-content .notion-collection-gallery.large {
