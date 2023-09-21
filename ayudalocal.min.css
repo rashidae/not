@@ -445,7 +445,7 @@ h2.notion-heading {
 
 h3,
 h3.notion-heading {
-color: var(--Grey-2, #1F1F1F);
+color: #484848;
 font-family: Inter;
 font-size: 21px;
 font-style: normal;
@@ -1084,8 +1084,8 @@ letter-spacing: -0.64px;
 
 #page-index h3,
 #page-index h3.notion-heading {
-  margin-top: .75rem !important;
-  color: #484848
+  margin-top: .48rem !important;
+  color: #767676;
 }
 
 [id*=page-blog-] .notion-header {
