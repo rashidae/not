@@ -149,27 +149,27 @@ figcaption {
 }
 
 .super-navbar {
-  webkit-backdrop-filter: blur(8px) !important;
-  -webkit-backdrop-filter: blur(8px) !important;
-  backdrop-filter: blur(8px) !important;
-  -moz-backdrop-filter: blur(8px) !important;
-  background: var(--navbar-bg) !important;
-  color: var(--navbar-color) !important;
+  webkit-backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  -moz-backdrop-filter: blur(8px);
+  background: var(--navbar-bg);
+  color: var(--navbar-color);
   height: auto !important
 }
 
 .super-navbar .super-navbar__content {
-  margin: 0 auto !important;
-  max-width: 900px !important;
-  padding: 8px 16px !important
+  margin: 0 auto;
+  max-width: 900px;
+  padding: 8px 16px
 }
 
 .super-navbar .super-navbar__logo {
-  align-self: stretch !important;
-  color: var(--heading-color) !important;
-  height: auto !important;
-  padding: 0 !important;
-  style= width:220px !important
+  align-self: stretch;
+  color: var(--heading-color);
+  height: auto;
+  padding: 0;
+  style= width:220px
 }
 
 .super-navbar .super-navbar__content .super-navbar__item-list {
@@ -177,36 +177,36 @@ figcaption {
 }
 
 .super-navbar .super-navbar__content .super-navbar__item-list .super-navbar__item {
-  font-size: 14px !important;
-  padding: 0 6px !important
+  font-size: 14px;
+  padding: 0 6px
 }
 
 .super-navbar .super-navbar__content .super-navbar__actions {
-  padding-right: 0 !important
+  padding-right: 0
 }
 
 .super-navbar .super-navbar__cta {
-  background-color: var(--cta-bg) !important;
-  border-radius: 8px !important;
-  color: var(--cta-color) !important;
-  font-size: 14px !important;
-  font-weight: 500 !important;
+  background-color: var(--cta-bg);
+  border-radius: 8px;
+  color: var(--cta-color);
+  font-size: 14px;
+  font-weight: 500;
   padding: 6px 14px
 }
 
 .super-navbar .super-navbar__cta:hover {
-  background-color: var(--cta-hover-bg) !important;
-  color: var(--cta-color) !important;
-  opacity: 1 !important
+  background-color: var(--cta-hover-bg);
+  color: var(--cta-color);
+  opacity: 1
 }
 
 .super-navbar .super-navbar__menu {
-  background-color: var(--accent-bg) !important;
-  min-width: auto !important
+  background-color: var(--accent-bg);
+  min-width: auto
 }
 
 .super-navbar__button svg {
-  stroke: var(--text-color) !important
+  stroke: var(--text-color)
 }
 
 .super-navbar__menu-item-list .super-cta-container {
