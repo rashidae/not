@@ -1106,6 +1106,11 @@ letter-spacing: -0.64px;
   order: 2
 }
 
+
+[id*=page-blog-] .notion-header__cover.no-cover {
+  display: none;}
+
+
 [id*=page-blog-] .notion-header .notion-header__cover.has-cover {
   border-radius: 16px;
   height: auto !important;
