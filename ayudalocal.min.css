@@ -108,7 +108,7 @@ figcaption {
 }
 
 .notion-image img {
-  border-radius: 16px
+  border-radius: 13px
 }
 
 .theme-switcher {
@@ -295,7 +295,7 @@ h3 {
   margin-top: .4rem !important;
   color: #1F1F1F;
 font-family: Inter;
-font-size: 21px;
+font-size: 21px; !important;
 font-style: normal;
 font-weight: 500;
 line-height: 100%; /* 21px */
