@@ -313,23 +313,16 @@ h1.notion-heading {
 
 @media (max-width: 375px) {
   h1, h1.notion-heading {
-    font-size: 2.8rem !important;
+    font-size: 3.2rem !important;
     letter-spacing: -1.5px;
     font-weight: 650 !important;
   }
 }
 
-@media (max-width: 362px) {
-  h1, h1.notion-heading {
-    font-size: 2.6rem !important;
-    letter-spacing: -1.5px;
-    font-weight: 650 !important;
-  }
-}
 
 @media (max-width: 353px) {
   h1, h1.notion-heading {
-    font-size: 2.6rem !important;
+    font-size: 3.0rem !important;
     letter-spacing: -1.5px;
     font-weight: 650 !important;
   }
@@ -337,7 +330,7 @@ h1.notion-heading {
 
 @media (max-width: 333px) {
   h1, h1.notion-heading {
-    font-size: 2.5rem !important;
+    font-size: 2.8rem !important;
     letter-spacing: -1.25px;
     font-weight: 650 !important;
   }
@@ -345,7 +338,7 @@ h1.notion-heading {
 
 @media (max-width: 320px) {
   h1, h1.notion-heading {
-    font-size: 2.2rem !important;
+    font-size: 2.6rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
@@ -353,34 +346,27 @@ h1.notion-heading {
 
 @media (max-width: 298x) {
   h1, h1.notion-heading {
-    font-size: 2.1rem !important;
+    font-size: 2.4rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
 }
 
-@media (max-width: 286px) {
+@media (max-width: 276px) {
+  h1, h1.notion-heading {
+    font-size: 2.2rem !important;
+    letter-spacing: -1px;
+    font-weight: 650 !important;
+  }
+}
+@media (max-width: 264px) {
   h1, h1.notion-heading {
     font-size: 2.0rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
 }
-@media (max-width: 264px) {
-  h1, h1.notion-heading {
-    font-size: 1.8rem !important;
-    letter-spacing: -1px;
-    font-weight: 650 !important;
-  }
-}
-}
-@media (max-width: 264px) {
-  h1, h1.notion-heading {
-    font-size: 1.6rem !important;
-    letter-spacing: -1px;
-    font-weight: 650 !important;
-  }
-}
+
 
 
 h2,
