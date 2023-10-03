@@ -295,7 +295,7 @@ h3 {
   margin-top: .4rem !important;
   color: #1F1F1F;
 font-family: Inter;
-font-size: 22px; !important;
+font-size: 24px; !important;
 font-style: normal;
 font-weight: 500;
 line-height: 100%; /* 21px */
@@ -1089,6 +1089,8 @@ letter-spacing: -0.64px;
 #page-index h3.notion-heading {
   margin-top: .48rem !important;
   color: #767676;
+      font-size: 23px;
+    line-height: 1.2;
 }
 
 [id*=page-blog-] .notion-header {
