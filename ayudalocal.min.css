@@ -177,8 +177,11 @@ figcaption {
 }
 
 .super-navbar .super-navbar__content .super-navbar__item-list .super-navbar__item {
-  font-size: 16px;
-  padding: 0 6px
+  font-size: 15px;
+  padding: 0 6px;
+  letter-spacing: -.1px;
+    font-weight: 420;
+    color: #222;
 }
 
 .super-navbar .super-navbar__content .super-navbar__actions {
