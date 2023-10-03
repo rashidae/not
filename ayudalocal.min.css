@@ -259,7 +259,7 @@ figcaption {
 .super-footer__links .super-footer__link {
   border-bottom: 1px solid var(--text-color) !important;
   font-size: 1rem !important;
-  opacity: .8 !important
+  opacity: .9 !important
 }
 
 .super-footer__links .super-footer__link:hover {
@@ -1148,7 +1148,7 @@ letter-spacing: -0.64px;
 #page-about h3,
 #page-about h3.notion-heading {
   margin-bottom: .85rem !important;
-  opacity: .68 !important;
+  opacity: .75 !important;
 }
 
 [id*=page-projects-] .notion-header {
