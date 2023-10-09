@@ -1208,13 +1208,3 @@ letter-spacing: -0.64px;
   opacity: 1 !important;
   text-transform: none !important
 }
-
-#link-wrapper {
-  display: block;
-  text-decoration: none;
-}
-
-#block-976b17a13df44a35a9134b3ef678d6b4 {
-  /* your existing styles for the block */
-  cursor: pointer;
-}
