@@ -311,16 +311,29 @@ h1.notion-heading {
   font-weight: 650;
 }
 
-@media (max-width: 375px) {
+
+@media (max-width: 395px) and (min-width: 380px) {
+
   h1, h1.notion-heading {
-    font-size: 3.2rem !important;
+    font-size: 3.4rem !important;
+    color: #1F1F1F;
+    line-height: 115%;
+    letter-spacing: -1.67px;
+    font-weight: 650;
+  }
+}
+
+
+@media (max-width: 379px) and (min-width: 354px) {
+  h1, h1.notion-heading {
+    font-size: 3.1rem !important;
     letter-spacing: -1.5px;
     font-weight: 650 !important;
   }
 }
 
 
-@media (max-width: 353px) {
+@media (max-width: 353px) and (min-width: 343px) {
   h1, h1.notion-heading {
     font-size: 3.0rem !important;
     letter-spacing: -1.5px;
@@ -328,7 +341,16 @@ h1.notion-heading {
   }
 }
 
-@media (max-width: 333px) {
+@media (max-width: 342px) and (min-width: 334px)  {
+  h1, h1.notion-heading {
+    font-size: 2.9rem !important;
+    letter-spacing: -1.25px;
+    font-weight: 650 !important; 
+  }
+}
+
+
+@media (max-width: 333px) and (min-width: 321px) {
   h1, h1.notion-heading {
     font-size: 2.8rem !important;
     letter-spacing: -1.25px;
@@ -338,15 +360,15 @@ h1.notion-heading {
 
 @media (max-width: 320px) {
   h1, h1.notion-heading {
-    font-size: 2.5rem !important;
+    font-size: 2.7rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
 }
 
-@media (max-width: 298x) {
+@media (max-width: 299x) {
   h1, h1.notion-heading {
-    font-size: 2.4rem !important;
+    font-size: 2.6rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
@@ -354,7 +376,7 @@ h1.notion-heading {
 
 @media (max-width: 276px) {
   h1, h1.notion-heading {
-    font-size: 2.2rem !important;
+    font-size: 2.3rem !important;
     letter-spacing: -1px;
     font-weight: 650 !important;
   }
@@ -394,9 +416,10 @@ h2.notion-heading {
   }
 }
 
+
 @media (max-width: 386px) {
   h2, h2.notion-heading {
-    font-size: 1.6rem !important;
+    font-size: 1.7rem !important;
     letter-spacing: -0.55px;
     font-weight: 500;
     margin-bottom: 10px;
@@ -406,7 +429,7 @@ h2.notion-heading {
 
 @media (max-width: 349px) {
   h2, h2.notion-heading {
-    font-size: 1.5rem !important;
+    font-size: 1.6rem !important;
     letter-spacing: -0.55px;
     font-weight: 500;
     margin-bottom: 10px;
