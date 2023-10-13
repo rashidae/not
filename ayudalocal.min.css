@@ -312,7 +312,7 @@ h1.notion-heading {
 }
 
 
-@media (max-width: 395px) and (min-width: 380px) {
+@media (max-width: 420px) and (min-width: 380px) {
 
   h1, h1.notion-heading {
     font-size: 3.4rem !important;
