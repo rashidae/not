@@ -81,13 +81,8 @@ body {
 }
 
 .super-navbar__cta {
-    transition: all 0.2s ease-in-out !important;
     letter-spacing: -0.3px !important;
-    padding: var(--cta-padding) !important;
     font-weight: 500 !important;
-    border-radius: var(--cta-border-radius) !important;
-    background: var(--cta-color-bg) !important;
-    color: var(--cta-color-text) !important;
 }
 
 .notion-icon__search:hover path:nth-child(2) {
