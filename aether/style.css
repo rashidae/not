@@ -83,6 +83,7 @@ body {
 .super-navbar__cta {
     letter-spacing: -0.3px !important;
     font-weight: 500 !important;
+    padding: var(--cta-padding) !important;
 }
 
 .notion-icon__search:hover path:nth-child(2) {
