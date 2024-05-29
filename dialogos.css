@@ -41,7 +41,6 @@ body {
 
 .super-navbar {
     transition: height .3s ease-in-out !important;
-    box-shadow: 0 0 1px 1px rgba(33, 41, 63, .1) !important;
     z-index: 90 !important;
     background: var(--navbar-bg) !important
 }
