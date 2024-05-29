@@ -491,8 +491,8 @@ h1.notion-heading {
 }
 
 .notion-dropdown__option.active {
-    background: var(--button-bg-color) !important;
-    border: var(--button-bg-color) !important
+    background: #507371 !important;
+    border: #507371 !important
 }
 
 .notion-dropdown__option.active p {
