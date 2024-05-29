@@ -1111,8 +1111,8 @@ letter-spacing: -0.64px;
 
 [id*=page-blog-] .notion-header .notion-header__content {
   order: 1;
-  padding-left: calc(env(safe-area-inset-left) + 1.5rem) !important;
-  padding-right: calc(env(safe-area-inset-right) + 1.5rem) !important;
+  padding-left: 0px;
+  padding-right: 0px;
   text-align: center
 }
 
@@ -1171,8 +1171,8 @@ letter-spacing: -0.64px;
 
 [id*=page-projects-] .notion-header .notion-header__content {
   order: 1;
-  padding-left: calc(env(safe-area-inset-left) + 1.5rem) !important;
-  padding-right: calc(env(safe-area-inset-right) + 1.5rem) !important;
+  padding-left: 0px;
+  padding-right: 0px;
   text-align: center
 }
 
