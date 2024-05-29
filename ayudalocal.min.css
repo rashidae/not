@@ -471,7 +471,7 @@ letter-spacing: -0.75px;
 }
 
 .notion-semantic-string .link {
-  border-bottom: 1px solid var(--text-color) !important;
+  border-bottom: 0px;
   opacity: 1 !important
 }
 
