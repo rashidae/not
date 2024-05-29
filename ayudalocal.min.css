@@ -86,8 +86,8 @@ body {
 
 .super-content {
   padding-bottom: 80px !important;
-  padding-left: calc(env(safe-area-inset-left) + 1.5rem) !important;
-  padding-right: calc(env(safe-area-inset-right) + 1.5rem) !important
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 .super-content .full-width {
@@ -689,7 +689,7 @@ letter-spacing: -0.64px;
 
 @media (max-width:620px) {
   .super-content .notion-collection-gallery.medium {
-    grid-template-columns: 1fr
+    grid-template-columns: 1fr 1fr
   }
 
   .super-content .notion-collection-gallery.small {
