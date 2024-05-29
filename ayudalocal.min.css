@@ -8,7 +8,7 @@
   --cta-hover-bg: #2e2e2e;
   --accent-bg: #ededef;
   --pill-bg: rgba(0, 0, 0, .06);
-  --border: #d5d5d5;
+  --border: #EBEBEB;
   --cta-color: #fff;
   --navbar-color: #303030;
   --text-color: rgba(30, 28, 28, .7);
@@ -185,7 +185,7 @@ figcaption {
 }
 
 .super-navbar .super-navbar__content .super-navbar__actions {
-  padding-right: 0
+
 }
 
 .super-navbar .super-navbar__cta {
