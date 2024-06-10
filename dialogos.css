@@ -490,8 +490,8 @@ h1.notion-heading {
 }
 
 .notion-dropdown__option.active {
-    background:var(--button-bg-color)!important;
-border:var(--button-bg-color)!important
+    background:var(--button-bg-color);
+border:var(--button-bg-color);
 }
 
 .notion-dropdown__option.active p {
