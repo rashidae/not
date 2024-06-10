@@ -376,7 +376,7 @@ h1.notion-heading {
     }
 
     .notion-dropdown__option:hover p, .notion-dropdown__option:hover svg {
-        color: var(--color-bg-default) !important
+    
     }
 
     .notion-dropdown__option {
