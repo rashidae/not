@@ -237,10 +237,22 @@ h1.notion-heading {
     margin-bottom: 10px !important
 }
 
+@media (max-width: 604px){
+
+#page-index .notion-text, .notion-root>h1.notion-heading:first-of-type {
+    text-align: left !important;
+    max-width: 600px !important;
+    margin: 0 !important
+}
+}
+
+@media (min-width: 605px){
+
 #page-index .notion-text, .notion-root>h1.notion-heading:first-of-type {
     text-align: center !important;
     max-width: 600px !important;
     margin: 0 auto !important
+}
 }
 
 @-webkit-keyframes dropdown-animation-in {
