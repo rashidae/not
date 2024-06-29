@@ -79,8 +79,8 @@ h1.notion-heading {
 }
 
 .notion-collection-gallery {
-    gap: 45px !important;
-    row-gap: 50px !important;
+    gap: 24px !important;
+    row-gap: 48px !important;
     border-top: 0 !important
 }
 
