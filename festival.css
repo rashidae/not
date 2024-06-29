@@ -175,8 +175,8 @@ h1.notion-heading {
 }
 
 .notion-collection-card:hover .notion-collection-card__cover {
-    transform: scale(.97) !important;
-    border-radius: calc(var(--card-radius) + 2px) !important
+    /* transform: scale(.97) !important; */
+    /* border-radius: calc(var(--card-radius) + 2px) !important */
 }
 
 .notion-collection-card:hover .notion-collection-card__cover img {
