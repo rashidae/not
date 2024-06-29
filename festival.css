@@ -180,7 +180,7 @@ h1.notion-heading {
 }
 
 .notion-collection-card:hover .notion-collection-card__cover img {
-    transform: scale(1.15) !important
+    /* transform: scale(1.15) !important */
 }
 
 .gallery .notion-collection-card__property .notion-semantic-string {
@@ -441,6 +441,10 @@ h1.notion-heading {
 
 .notion-header__title-wrapper {
     text-align: center !important
+}
+
+.notion-collection-card__cover {
+    border-radius: 13px !important;
 }
 
 .notion-header__icon-wrapper.has-icon, .notion-header__icon-wrapper.has-icon-image {
