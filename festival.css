@@ -150,12 +150,12 @@ h1.notion-heading {
 }
 
 .notion-property.notion-property__select .notion-pill {
-    padding: 14px 10px !important;
+    padding: 12px 8px !important;
     margin: 0 !important;
     line-height: 0 !important;
     max-width: 100% !important;
     border-radius: 50px !important;
-    opacity: .7 !important;
+    opacity: .9 !important;
     transition: opacity .15s ease-in-out !important
 }
 
