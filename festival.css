@@ -168,7 +168,7 @@ h1.notion-heading {
 }
 
 .notion-collection-card .notion-property__title, .notion-collection-card .notion-property__title span {
-    font-size: 22px !important;
+    font-size: 20px !important;
     font-weight: 600 !important;
     letter-spacing: -.5px !important
 }
